@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+.pnpm-store/
+
+# Builds
+dist/
+build/
+
+# Logs e Debug
+npm-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Ambiente
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/

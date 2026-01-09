@@ -1,0 +1,17 @@
+# Regras do Projeto - Deep Focus Tracker
+
+Você deve sempre agir de acordo com os documentos em `/docs`.
+
+## Referências Obrigatórias:
+1. Sempre consulte `docs/01-prd.md` para validar requisitos de negócio.
+2. Siga rigorosamente os padrões técnicos em `docs/02-arch.md`.
+3. Adote a postura de Engenheiro Sênior descrita em `docs/03-context.md`.
+
+## Instruções de Operação:
+- Antes de criar qualquer arquivo de código, verifique se a estrutura de pastas condiz com o ARCH.md.
+- Ao usar o terminal para instalar pacotes, prefira `npm`.
+- Se você precisar tomar uma decisão técnica que não está nos documentos, apresente 2 opções ao usuário e peça uma decisão.
+
+## Restrições:
+- Não gere código sem antes ler o contexto completo do diretório /docs.
+- Não remova comentários de "porquê" já existentes no código.
