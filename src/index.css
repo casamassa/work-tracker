@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Isso substitui as 3 diretivas antigas (@tailwind base, etc) no v4 */
+
+body {
+  @apply bg-zinc-950 text-zinc-100;
+}
